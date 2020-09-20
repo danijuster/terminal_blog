@@ -2,6 +2,7 @@ from database import Database
 from models.blog import Blog
 
 
+# hello
 class Menu(object):
     def __init__(self):
         self.user = input('Enter your author name: ')
